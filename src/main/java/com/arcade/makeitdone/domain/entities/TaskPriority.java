@@ -1,4 +1,4 @@
-package com.arcade.makeitdone.domain;
+package com.arcade.makeitdone.domain.entities;
 
 public enum TaskPriority {
     LOW,
